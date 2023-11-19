@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\bin\Debug\Servidor-Cliente.exe.config
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\bin\Debug\Servidor-Cliente.exe
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\bin\Debug\Servidor-Cliente.pdb
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\obj\Debug\Servidor-Cliente.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\obj\Debug\Servidor-Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\obj\Debug\Servidor-Cliente.exe
+C:\Users\ACER\source\repos\Servidor-Cliente\Servidor-Cliente\obj\Debug\Servidor-Cliente.pdb
